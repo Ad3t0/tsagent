@@ -1,0 +1,5 @@
+{
+  "serverVersion": "v4.8.2",
+  "wazuhAgentMsiUrl": "https://packages.wazuh.com/4.x/windows/wazuh-agent-4.8.2-1.msi",
+  "wazuhFileName": "wazuh-agent-4.8.2-1.msi"
+}
